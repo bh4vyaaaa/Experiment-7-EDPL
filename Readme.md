@@ -32,5 +32,7 @@ If valid, take user input to fill both matrices using nested loops.
 Create a result matrix filled with zeros.
 
 Use a triple-nested loop  to multiply elements and add them to the result matrix.
-Print the final result in a structured grid format.Conclusion
+Print the final result in a structured grid format.
+
+Conclusion
 Through this experiment, I have gained a deep understanding of how loops work in Python. I successfully implemented simple counters, conditional skips, and complex nested structures for matrix math. Understanding loops is fundamental to programming because it allows us to handle large amounts of data and perform repetitive calculations efficiently.
